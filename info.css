@@ -1,0 +1,41 @@
+.product {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    width: 1100px;
+    text-align: center;
+}
+
+.product h3 {
+    color: #333;
+    font-size: 20px;
+    position: relative;
+    left: 20px;
+}
+
+.info {
+    color: #000000;
+    font-size: 20px;
+    width: auto;
+    margin: 80px;
+    position: relative;
+}
+
+.price {
+    color: #000000;
+    font-size: 20px;
+    width: 70%;
+    margin: auto;
+    position: relative;
+}
+.product span {
+    color: #ff4500;
+    font-size: 20px;
+    margin: 70px;
+    position: relative;
+}
+
+.product a {
+    text-decoration: none;
+    color: #fff;
+}

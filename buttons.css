@@ -1,0 +1,23 @@
+button {
+    background-color: #0e9c6d;
+    color: #fff;
+    padding: 5px 30px;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #0E6E9C; 
+    color: white; 
+}
+nav ul li:nth-child(1) a:hover {
+    color: #ffc6f6;
+}
+nav ul li:nth-child(2) a:hover {
+    color: #ffc6f6;
+}
+nav ul li:nth-child(3) a:hover {
+    color: #ffc6f6;
+}
+nav ul li:nth-child(4) a:hover {
+    color: #ffc6f6;
+}
